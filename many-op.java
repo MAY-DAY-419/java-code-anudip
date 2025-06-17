@@ -14,7 +14,7 @@ public class SimpleOperators {
         b--;
 
         if(a == 10 && b < 3) {
-            System.out.println("a is 6 and b is less than 3");
+            System.out.println("a is 10 and b is less than 3");
         }
     }
 }
